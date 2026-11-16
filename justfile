@@ -1,2 +1,2 @@
 RELEASE_PYPI := "false"
-RELEASE_REQUIRE_CI := "false"
+RELEASE_REQUIRE_CI := "true"
