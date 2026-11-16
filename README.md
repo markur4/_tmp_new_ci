@@ -11,3 +11,5 @@ GitHub Release or publish anything.
 
 The repository exists only to confirm GitHub accepts and runs these workflow
 patterns with ordinary dummy code.
+
+This line is a pull-request-trigger smoke probe.
